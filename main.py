@@ -154,6 +154,7 @@ def print_banner(BoostsAmmount: int, license_status: str):
                             
             
             Made by ! [Leͥgeͣnͫd] Mii🌟
+            Github: https://github.com/syncxdev/boost_tool
             Discord: https://discord.gg/Nyq3fNtQWT
 
                     Boosts Available: {BoostsAmmount}
